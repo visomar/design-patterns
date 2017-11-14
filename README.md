@@ -12,6 +12,6 @@ Patrones de Diseño
 
 Esto es un proyecto personal para realizar una colección entendible de descripciones de patrones de diseño, y algunos ejemplos de cada uno, todos ellos escritos en Java.  
 La mayor parte de la información recogida aquí proviene del libro **_Patrones de Diseño: Elementos de software orientado a objetos reutilizable_**, escrito por cuatro autores conocidos como **el Gang of Four**, y esa debería ser la primera fuente de información a comprobar en caso de que alguien necesite un primer contacto con alguno de los patrones de diseño más conocidos.  
-También quiero recomendar otro libro, llamado **_Game Programmin Ptterns_**, por **Robert Nystrom**, y que puedes encontrar [en su página web](http://gameprogrammingpatterns.com/ "Game Programming Patterns - Robert Nystrom"). Si te gustan los videojuegos (e incluso si no te gustan), encontrarás ejemplos y patrones muy usables y entendibles en ese libro, todos ellos vistos desde la perspectiva del codigo fuente de un juego.  
+También quiero recomendar otro libro, llamado **_Game Programming Patterns_**, por **Robert Nystrom**, y que puedes encontrar [en su página web](http://gameprogrammingpatterns.com/ "Game Programming Patterns - Robert Nystrom"). Si te gustan los videojuegos (e incluso si no te gustan), encontrarás ejemplos y patrones muy usables y entendibles en ese libro, todos ellos vistos desde la perspectiva del codigo fuente de un juego.  
 
 Este proyecto está en desarrollo, por lo que iré añadiendo más fuentes según vaya trabajando con ellas.
