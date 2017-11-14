@@ -3,7 +3,7 @@ Design Patterns
 
 This is a personal project to make an understandable collection of design pattern descriptions, and some examples of each one, all of them written in Java.  
 Most of the information gathered here comes from the book **_Design Patterns: Elements of Reusable Object-Oriented Software_**, by **the Gang of Four**, and that should be the first source of information to check in case anyone needs a first touch with any of the most known design patterns.  
-I also want to reccomend another book, called **_Game Programming Patterns_**, by **Robert Nystrom**, and you can find it [in his website](http://gameprogrammingpatterns.com/ "Game Programming Patterns - Robert Nystrom"). If you happen to like games (and even if you don't), you'll find very useful and understandable patterns and examples in that book, all of them viewed from the perspective of a game source code.  
+I also want to reccomend another book, called **_Game Programming Patterns_**, by **Robert Nystrom**, and you can find it [in his website](http://gameprogrammingpatterns.com/ "Game Programming Patterns - Robert Nystrom"). If you happen to like games (and even if you don't), you'll find very useful and understandable patterns and examples in that book, all of them viewed from the perspective of a game's source code.  
 
 This is a work-in-progress project, so I will be adding more sources as I keep working on them.
 
