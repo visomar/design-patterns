@@ -6,8 +6,8 @@ It's quite difficult to understand given that, traditionally, in OOP languages, 
 
 Some of those benefits are:  
   * The request objects allow a better management (queues, history, rollbacks, etc.)
-  * Maintainment improved
-  * The action and the object are decoupled, so this pattern allows certain grade of modularity  
+  * Can have callback functionality
+  * Actions and objects are decoupled, and that improves maintainment  
 
 The entities that participate in this pattern are the following:  
   * The command interface, Command
@@ -26,8 +26,8 @@ Es algo complicado de entender dado que tradicionalmente, en el paradigma de pro
 
 Algunos de estos beneficios son:  
   * Los objetos de las peticiones permiten una mejor gestión (colas, histórico, rollbacks, etc.)
-  * El mantenimiento se ve mejorado
-  * La acción sobre el objeto y el propio objeto están desacoplados, por lo que este patrón permite cierto grado de modularidad  
+  * Se puede incluir funcionalidad de callback
+  * Las acciones sobre el objeto y los propios objetos están desacoplados, lo que mejora las tareas de mantenimiento  
 
 Las entidades que participan en este patrón son las siguientes:  
   * La interfaz de orden, Command
