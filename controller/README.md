@@ -15,6 +15,9 @@ The entities that participate in this pattern are the following:
   * The object on which the action is applied, Receiver
   * The object that invokes the action, Invoker
 
+**Note**: A common problem is code or logic duplicated inside the Receiver and the ConcreteCommands. This is what this pattern is for, so be careful with this.  
+
+
 Orden
 =====
 
@@ -31,3 +34,5 @@ Las entidades que participan en este patrón son las siguientes:
   * La implementación o implementaciones de las órdenes, ConcreteCommand
   * El objeto sobre el que se aplica la acción, Receiver
   * El objeto que invoca la acción, Invoker
+
+**Nota**: Un problema común es piezas de código o lógica duplicada dentro del Receptor y de la implementación de la orden. Esto es lo que soluciona este patrón, por lo que debes ir con cuidado.
