@@ -35,4 +35,4 @@ Las entidades que participan en este patrón son las siguientes:
   * El objeto sobre el que se aplica la acción, Receiver
   * El objeto que invoca la acción, Invoker
 
-**Nota**: Un problema común es piezas de código o lógica duplicada dentro del Receptor y de la implementación de la orden. Esto es lo que soluciona este patrón, por lo que debes ir con cuidado.
+**Nota**: Un problema común es encontrar piezas de código o lógica duplicada dentro del Receptor y de la implementación de la orden. Esto es lo que soluciona este patrón, por lo que debes ir con cuidado.
