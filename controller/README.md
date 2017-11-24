@@ -7,7 +7,7 @@ It's quite difficult to understand given that, traditionally, in OOP languages, 
 Some of those benefits are:  
   * The request objects allow a better management (queues, history, rollbacks, etc.)
   * Can have callback functionality
-  * Actions and objects are decoupled, and that improves maintainment  
+  * Actions and objects are decoupled, and that improves maintenance  
 
 The entities that participate in this pattern are the following:  
   * The command interface, Command
