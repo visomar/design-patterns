@@ -9,6 +9,8 @@ Some of those benefits are:
   * Can have callback functionality
   * Actions and objects are decoupled, and that improves maintenance  
 
+Actually, the way you identify a place where you can use this pattern is when you need something extra to do with the methods like queuing, undoing, and so on.
+
 The entities that participate in this pattern are the following:  
   * The command interface, Command
   * The implementation(s) of the command itself, ConcreteCommand
@@ -28,6 +30,8 @@ Algunos de estos beneficios son:
   * Los objetos de las peticiones permiten una mejor gestión (colas, histórico, rollbacks, etc.)
   * Se puede incluir funcionalidad de callback
   * Las acciones sobre el objeto y los propios objetos están desacoplados, lo que mejora las tareas de mantenimiento  
+
+De hecho, una manera de identificar el sitio donde puedes usar este patrón es cuando necesitas hacer algo extra con los métodos, como encolar, deshacer, etcétera.s
 
 Las entidades que participan en este patrón son las siguientes:  
   * La interfaz de orden, Command
