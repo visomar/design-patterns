@@ -6,7 +6,8 @@ public class Test2 {
 
 	public static void main(String[] args) {
 		// In this example we're creating commands for the protagonist of a game, and linking them to different buttons.
-		// Unlike the example on test1, we're not tieing the command itself with the receiver object, so we can use it in any other character
+		// Unlike the example on test1, we're not tieing the command itself with the receiver object, so we can use it 
+		// on any other character.
 		// This example is better explained in Bob Nystrom's book, so go take a look
 
 		//The receiver

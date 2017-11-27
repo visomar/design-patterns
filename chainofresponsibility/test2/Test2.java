@@ -4,10 +4,11 @@ public class Test2 {
 
 	public static void main(String[] args) {
 		// This test is for the use case of some Budget needed to get managed by a person with a responsible position
-		// The request comes with an amount, which is the budget itself, and maybe other fields, like for example, a description
-		// The handlers are instances of classes defining those positions inside the business
-		// A budget of more than 30k is only managed by the CEO, whereas a budget of equal or more than 5k is managed by the department director, and
-		// with budgets of less than 5k, the Project Manager can be the accountant of approving or rejecting it.
+		// The request comes with an amount, which is the budget itself, and maybe other fields, for example, a description
+		// The handlers are instances of classes defining those positions inside the business hierarchy
+		// A budget of more than 30k is only managed by the CEO, whereas a budget of equal or more than 5k is managed by 
+		// the department director, and with budgets of less than 5k, the Project Manager can be the accountant of approving 
+		// or rejecting it.
 
 		// Each instance defines a delegate for managing requests
 		Handler lewis = new ProjectManager("Lewis", null);

@@ -3,7 +3,8 @@ package designpatterns.controller.test1;
 public class Test1 {
 
 	public static void main(String[] args) {
-		// The Light and Switch example is a common command example which allows us to see the basic "how to" with this pattern
+		// The Light and Switch example is a common command example which allows us to see the basic "how to" 
+		// with this pattern
 
 		//The Receiver
 		Light light = new Light();
