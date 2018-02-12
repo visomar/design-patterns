@@ -1,6 +1,6 @@
-package designpatterns.controller.test2;
+package designpatterns.command.test2;
 
-import designpatterns.controller.test2.InputHandler.Button;
+import designpatterns.command.test2.InputHandler.Button;
 
 public class Test2 {
 

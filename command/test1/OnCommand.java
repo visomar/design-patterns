@@ -1,4 +1,4 @@
-package designpatterns.controller.test1;
+package designpatterns.command.test1;
 
 //The ConcreteCommand
 public class OnCommand implements Command {

@@ -1,4 +1,4 @@
-package designpatterns.controller.test1;
+package designpatterns.command.test1;
 
 //The Invoker
 public class Switch {

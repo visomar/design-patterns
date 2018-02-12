@@ -1,4 +1,4 @@
-package designpatterns.controller.test2;
+package designpatterns.command.test2;
 
 public class Protagonist implements Actor {
 
