@@ -1,8 +1,8 @@
-Controller
-==========
+Command
+=======
 
 This pattern defines an operation on an object in the form of another object instead of belonging to it as another method.  
-It's quite difficult to understand given that, traditionally, in OOP languages, by design, an object or class is a sustantive, whereas any of its methods are the actions, or verbs, that sustantive allows. With the Controller pattern this approach changes slightly, but it has certain benefits or perks that make its application worth the design deviation.  
+It's quite difficult to understand given that, traditionally, in OOP languages, by design, an object or class is a sustantive, whereas any of its methods are the actions, or verbs, that sustantive allows. With the Command pattern this approach changes slightly, but it has certain benefits or perks that make its application worth the design deviation.  
 
 Some of those benefits are:  
   * The request objects allow a better management (queues, history, rollbacks, etc.)
